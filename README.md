@@ -23,10 +23,14 @@
                  <br>
                  <br>
                  <table>
-                 <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">     
-     <td><img src="foto2.jpg"alt="foto2" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
-                   <td><img src="foto4.png"alt="foto4" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
-                   <td><img src="foto3.jpg"alt="foto3" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
+                 <tr>
+                  <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
+            <img src="foto2.jpg" alt="foto2" style="float:left; 250px; padding-right: 20px; height: 275px; border-radius: 60%; display: block; margin-right: 30 auto;">
+             <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
+            <img src="foto4.jpg" alt="foto4" style="float:left; 250px; padding-right: 20px; height: 275px; border-radius: 60%; display: block; margin-right: 30 auto;">
+             <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
+            <img src="foto3.jpg" alt="foto3" style="float:left; 250px; padding-right: 20px; height: 275px; border-radius: 60%; display: block; margin-right: 30 auto;">
+                   </tr>
                    </table>
         <h2 style="color: #ae24d1;">Mis Hobbies</h2>
             <ul style="color: #333;">
