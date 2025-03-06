@@ -25,11 +25,11 @@
                  <table>
                  <tr>
                   <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
-            <img src="foto2.jpg" alt="foto2" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;">
+            <td><img src="foto2.jpg" alt="foto2" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;">
              <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
             <img src="foto4.jpg" alt="foto4" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;">
              <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
-            <img src="foto3.jpg" alt="foto3" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;">
+            <img src="foto3.jpg" alt="foto3" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
                    </tr>
                    </table>
                    <br>
