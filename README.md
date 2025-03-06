@@ -19,9 +19,6 @@
                     <p style="color: #333;"> Como me veo de aquí a 5 años: <a href="https://youtube.com/shorts/8TJXWKTqR20?feature=share" style="color: #007bff;">youtube</a></p>
                 </ul>
                 <br>
-                 <br>
-                 <br>
-                 <br>
                  <table>
                  <tr>
                   <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
