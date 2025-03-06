@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +48,3 @@
              </ul>
             <h3 style="color: #ae24d1;">Contacto</h3>
             <p style="color: #333;">Puedes contactarme en: <a href="https://www.instagram.com/karladc30/" style="color: #007bff;">instagram</a></p>
-        </div>
-    </body>
-    </body>
-</html>
