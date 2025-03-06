@@ -20,7 +20,7 @@
                 </ul>
                 <br>
                 <ul>
-                  <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 40px;">
+                  <div style="background-color: #fff; padding: 30px; border-radius: 20px; margin: 10px;">
             <td><img src="foto2.jpg" alt="foto2" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
             <td><img src="foto4.png" alt="foto4" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
             <td><img src="foto3.jpg" alt="foto3" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
