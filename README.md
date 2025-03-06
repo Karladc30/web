@@ -28,8 +28,7 @@
             <td><img src="foto2.jpg" alt="foto2" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
             <td><img src="foto4.png" alt="foto4" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
             <td><img src="foto3.jpg" alt="foto3" style="width: 250px; height: 275px; border-radius: 60%; display: block; margin: 10 auto;"></td>
-                   </tr>
-                   </table>
+            <br>
         <h2 style="color: #ae24d1;">Mis Hobbies</h2>
             <ul style="color: #333;">
                <p>Me gusta realizar tejidos de amigurumis, también conocido como crochet.<br>Me gusta investigar más sobre estas manualidades y aprender técnicas de tejidos.<br>Y entre ratos me gusta dibujar y Pintar.</p>
